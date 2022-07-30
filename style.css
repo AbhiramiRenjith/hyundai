@@ -1,0 +1,187 @@
+.header{
+    background-color: rgb(215, 223, 230);
+    width: 100%;
+    height: 100px;
+    position: fixed;
+}
+body{
+    margin: 0%;
+}
+.logo
+{
+    width: 50%;
+    height: 100%;
+    float:left;
+    margin-top: 25px;
+    margin-left: 20px;
+    position: fixed;
+
+}
+.centerimg{
+    
+    width: 100%;
+    height:470px;
+}
+.center{
+    width: 100%;
+    height:470px;
+
+}
+.firstimg{
+    width: 100%;
+    margin-top: -25px;
+}
+.models{
+    width:100%;
+    height: 300px;
+}
+.text{
+    color: black;
+    text-align: center;
+    padding-top: 30px;
+}
+.models{
+    position: relative;
+    width: 100%;
+    height: 350px;
+    position: relative;
+}
+.modimg{
+    width: 100%;
+    height: 350px;
+}
+.testdrive{
+    background:#05276e;
+    height: 30px;
+    width: 180px;
+    color:white;
+    border:#05276e;
+    font: size 10px;;
+}
+.select{
+    width:100%;
+    height:25px;
+}
+.border{
+    width: 100%;
+    background: #05276e;
+    height: 5px;
+
+}
+.label{
+    width: 100%;
+    height: 500px;
+    background:whitesmoke;
+}
+.forms{
+    width: 580px;
+    height: 500px;
+    margin-left: 350px;
+}
+.input{
+    
+    width: 100%;
+    height: 25px;
+
+}
+.mb{
+    width:400px;
+    padding: 25px;
+ 
+}
+.check{
+    margin-left: 25px;
+    float: left;
+}
+.checktext{
+    float: left;
+    
+}
+.anger{
+    float: left;
+}
+.submit{
+    margin-left: -33px;
+    margin-top: 36px;
+    width: 400px;
+    height:35px;
+    background: gray;
+    border: gray;
+}
+.address{
+    width: 100%;
+    height:300px;
+    background-color: rgb(233, 227, 227);
+}
+.address .testdrive{
+    padding-top: 12px;
+    padding-left: 8px;
+}
+.address h3{
+    margin-left: 10px;
+}
+.address h4{
+    margin-left: 55px;
+}
+.direction{
+    width:100%;
+    height: 300px;
+    background: rgb(233, 227, 227);
+}
+.direction .testdrive{
+    padding: 12px;
+    padding-left: 8px;
+}
+.dire1{
+    float: left;
+    width:500px;
+    height:250px;
+    padding-left: 10px;
+}
+.dire2{
+    float: left;
+    height: 250px;
+    width: 400px;
+
+}
+.dire3{
+    height: 250px;
+    width: 400px;
+    float: left;
+
+}
+.facebook{
+    width:75px;
+    height: 100px;
+    float: left;
+}
+.facetext{
+    width:250px;
+    height:100px;
+    float: left;
+}
+.like{
+    width:50px;
+    height:100px;
+    
+}
+.share{
+    width: 107px;
+    height: 52px;
+    background: #5e9bcd;
+    float: left;
+    color: white;
+    margin-left: 117px;
+    border: #05276e;
+}
+.footer{
+    width: 100%;
+    height:50px;
+    background:#05276e
+}
+.footer h4{
+    margin: 0;
+    color: white;
+    padding-left:400px;
+    padding-top: 10px;
+}
